@@ -1,4 +1,5 @@
-import react, { useState } from 'react';
+
+import { useState } from 'react';
 import { fetchWeather } from './api/fetchWeather';
 import './index.css';
 function App() {
